@@ -15,7 +15,7 @@ $ npm i --save pensador
 ## Exemplo
 
 ```js
-const pensador = require("../lib/index");
+const pensador = require("pensador");
 
 pensador.getFromCollection("<USER_COLLECTION>").then(result => {
   console.log(result);
