@@ -1,6 +1,6 @@
 {
   "name": "pensador",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Módulo para interação com o site Pensador.com",
   "main": "lib/index.js",
   "directories": {
