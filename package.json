@@ -1,0 +1,30 @@
+{
+  "name": "pensador",
+  "version": "1.0.0",
+  "description": "Módulo para interação com o site Pensador.com",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "bin": "bin"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SirMinux/pensador.git"
+  },
+  "keywords": [
+    "pensador"
+  ],
+  "author": "Alex Ribeiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SirMinux/pensador/issues"
+  },
+  "homepage": "https://github.com/SirMinux/pensador#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "striptags": "^3.1.1"
+  }
+}
